@@ -1,0 +1,6 @@
+[submodule "HaskellExercises"]
+	path = HaskellExercises
+	url = https://github.com/LeonardoGaldino/HaskellExercises.git
+[submodule "ConcurrencyExercises"]
+	path = ConcurrencyExercises
+	url = git@github.com:LeonardoGaldino/ConcurrencyExercises.git
